@@ -1,8 +1,8 @@
 body {
-  background-color: rgb(8, 44, 8);
+  background-color: grey;
 }
 .container {
-  background-color: coral;
+  background-color: black;
   justify-content: center;
   width: 50%;
   margin-left: 25%;

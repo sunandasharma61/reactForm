@@ -23,7 +23,7 @@ function Form() {
       <pre>
         {(flag) ? 
           <h2 className="ui-define">
-            Hello{inputData.name},You've Registered Successfully
+            Hello {inputData.name},You've Registered Successfully
           </h2>
          : 
           ""
